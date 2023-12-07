@@ -12,5 +12,9 @@
 
 <h3>Abra a versão web do mini projeto:</h3>
 $ https://huguedes.github.io/Desafio---Acelera-ZG-5.0/ 
+<br>
+
+<h2>Imagem</h2>
+<img src="assets/exemplo.png">
 
 
